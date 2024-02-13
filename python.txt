@@ -1,1 +1,1 @@
-html and css is a scripting language
+python is a programming language and html and css is a scripting language
